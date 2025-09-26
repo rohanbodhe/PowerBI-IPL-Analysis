@@ -1,4 +1,4 @@
-IPL Power BI Dashboard
+## IPL Power BI Dashboard
 
 # Project Overview
 This project is an interactive Power BI dashboard created using Indian Premier League (IPL) data.
