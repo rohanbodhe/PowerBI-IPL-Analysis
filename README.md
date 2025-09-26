@@ -22,5 +22,5 @@ The dashboard provides analysis of matches, player performances, and season-wise
 - Dynamic points table for season-specific standings
 - Trends in matches across different IPL seasons
 
-Contributing
+# Contributing
 Suggestions and improvements are welcome.
